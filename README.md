@@ -38,4 +38,4 @@ I am a systems professional focused on **data integrity** and **workflow automat
 
 ### 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-708090?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keppe-john/)
-[![Email](https://img.shields.io/badge/Email-708090?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhnkeppe@gmail.com)
+[![Email](https://img.shields.io/badge/Email-708090?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keppe-john@outlook.com)
