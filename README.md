@@ -1,7 +1,7 @@
 # Hi, I'm John Keppe 👋
 
 ### 📊 Operations & Data Coordination Specialist
-**Beckley, WV** | [Portfolio](https://sites.google.com/view/johnkeppe) | [LinkedIn](https://www.linkedin.com/in/keppe-john/)
+**Beckley, WV** | [Portfolio](https://keppejhn.github.io/Portfolio/) | [LinkedIn](https://www.linkedin.com/in/keppe-john/)
 
 ---
 
